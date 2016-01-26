@@ -1,2 +1,2 @@
-# magento-LCB_NIP
+# LCB_NIP
 Polish vat number validation for Magento
