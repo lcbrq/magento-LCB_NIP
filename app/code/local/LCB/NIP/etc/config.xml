@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LCB_NIP>
+            <version>0.1.0</version>
+        </LCB_NIP>
+    </modules>
+    <global>
+        <helpers>
+            <nip>
+                <class>LCB_NIP_Helper</class>
+            </nip>
+            <customer>
+                <rewrite>
+                    <data>LCB_NIP_Helper_Data</data>
+                </rewrite>
+            </customer>
+        </helpers>
+    </global>
+</config> 
